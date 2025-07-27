@@ -2,8 +2,8 @@ import { IMenuItem } from "@/types";
 
 export const menuItems: IMenuItem[] = [
     {
-        text: "Features",
-        url: "#features"
+        text: "HNG Advanced",
+        url: "/hng-advanced"
     },
     {
         text: "Pricing",
